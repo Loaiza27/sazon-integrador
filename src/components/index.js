@@ -6,4 +6,3 @@ export { default as DashboardView } from './DashboardView'
 export { default as Toast } from './Toast'
 export { default as ThemeToggle } from './ThemeToggle'
 export { default as Footer } from './Footer'
-export { default as AdminResumen } from './AdminResumenMsu';
